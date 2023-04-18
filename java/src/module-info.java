@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author tamiz
- *
- */
-module java {
-}
